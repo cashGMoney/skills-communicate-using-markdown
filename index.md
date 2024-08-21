@@ -4,3 +4,9 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 We tested out adding an H1 Header
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+var myVar = "Hello, world!";
